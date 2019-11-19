@@ -4,7 +4,7 @@ spring:
       name: eureka
       profile: dev
       label: master
-      uri: http://127.0.0.1:12000
+      uri: http://168.192.231.129:12000
 #server:
 #  port: 6868 #服务端口
 #eureka:
